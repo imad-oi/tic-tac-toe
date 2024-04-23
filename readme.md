@@ -1,13 +1,22 @@
 
-## fonctionnalités
-**Real-time Multiplayer**: Implement real-time multiplayer functionality using technologies like WebSocket or Firebase to allow users to play against each other online.
+# Tic Tac Toe
+
+## Description
+This is a simple Tic Tac Toe game developed in React Native using Expo.
+
+## How to run
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm start` to start the Expo server
+4. Scan the QR code with the Expo app on your phone or run it on an emulator
+
+## How to play
+1. The game starts with Player 1 (X) and Player 2 (O)
+2. Tap on an empty cell to place your mark
+3. The game will automatically switch to the next player
+4. The game will end when a player wins or when the board is full
 
 
-**Game Statistics**: Track and display detailed statistics such as win rate, average game duration, and most frequent opponents.
-
-**User Accounts and Profiles**: Create user accounts with profiles, allowing players to track their progress, customize their avatars, and view their game history.
-
-**Achievements and Rewards**: Introduce achievements and rewards system to incentivize players to achieve certain milestones or perform specific actions during gameplay.
-
-**Social Sharing**: Enable players to share their game results, achievements, and challenges with friends on social media platforms.
-Voice Commands: Implement voice recognition to allow players to interact with the game using voice commands for actions like placing marks or resetting the game.
+## Screenshots
+![Screenshot 1](./assets/screenshot1.jpg)
+![Screenshot 1](./assets/screenshot2.jpg)
